@@ -1,0 +1,9 @@
+[package]
+name = "squish_sys"
+version = "0.1.0"
+authors = ["Josh Matthews <josh@joshmatthews.net>"]
+build = "build.rs"
+
+[lib]
+name = "squish_sys"
+path = "lib.rs"

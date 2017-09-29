@@ -1,0 +1,6 @@
+target
+Cargo.lock
+squish_sys/libsquish.a
+squish_sys/*.o
+squish_sys/target
+squish_sys/Cargo.lock
